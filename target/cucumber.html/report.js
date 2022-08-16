@@ -79,7 +79,7 @@ formatter.match({
   "location": "IMDBTestFile.user_navigate_get_url_to(String)"
 });
 formatter.result({
-  "duration": 12770679400,
+  "duration": 12323489900,
   "status": "passed"
 });
 formatter.match({
@@ -92,28 +92,28 @@ formatter.match({
   "location": "IMDBTestFile.user_search_for_movie(String)"
 });
 formatter.result({
-  "duration": 6937494700,
+  "duration": 7450990300,
   "status": "passed"
 });
 formatter.match({
   "location": "IMDBTestFile.collect_the_country_of_origin_details()"
 });
 formatter.result({
-  "duration": 69133600,
+  "duration": 73218800,
   "status": "passed"
 });
 formatter.match({
   "location": "IMDBTestFile.release_date_information()"
 });
 formatter.result({
-  "duration": 6396799500,
+  "duration": 6381354500,
   "status": "passed"
 });
 formatter.match({
   "location": "IMDBTestFile.close_the_IMDB_Browser()"
 });
 formatter.result({
-  "duration": 963335400,
+  "duration": 993908100,
   "status": "passed"
 });
 formatter.match({
@@ -126,7 +126,7 @@ formatter.match({
   "location": "IMDBTestFile.user_navigate_get_url_to(String)"
 });
 formatter.result({
-  "duration": 4683046900,
+  "duration": 5240253500,
   "status": "passed"
 });
 formatter.match({
@@ -139,35 +139,35 @@ formatter.match({
   "location": "IMDBTestFile.user_search_for_movie_in_wikisite(String)"
 });
 formatter.result({
-  "duration": 1724231400,
+  "duration": 1904471200,
   "status": "passed"
 });
 formatter.match({
   "location": "IMDBTestFile.collect_the_country_of_origin_details_in_wiki()"
 });
 formatter.result({
-  "duration": 113728900,
+  "duration": 110388300,
   "status": "passed"
 });
 formatter.match({
   "location": "IMDBTestFile.release_date_information_details_in_wiki()"
 });
 formatter.result({
-  "duration": 66983600,
+  "duration": 61466500,
   "status": "passed"
 });
 formatter.match({
   "location": "IMDBTestFile.close_the_wiki_Browser()"
 });
 formatter.result({
-  "duration": 853933600,
+  "duration": 819171000,
   "status": "passed"
 });
 formatter.match({
   "location": "IMDBTestFile.compare_the_both_information_details_from_IMDB_and_Wiki_Site()"
 });
 formatter.result({
-  "duration": 312400,
+  "duration": 240800,
   "status": "passed"
 });
 });
